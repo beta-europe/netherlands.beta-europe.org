@@ -1,0 +1,11 @@
+.masthead a.site-title {
+  .site-title-logo {
+    img {
+      position: relative;
+      top: -8px;      
+      @include breakpoint($x-large) { /* e.g. $medium $small */
+        left: -50px;
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+# main links
+main:
+  - title: About
+    url: /about/
+
+  - title: Contact
+    url: /contact/
+
+  - title: News
+    url: /news/
+
+  - title: Forum
+    url: https://forum.beta-europe.org
+
+  - title: Team
+    url: /team/
+
+  - title: Partners
+    url: /partner/
+
+  # - title: Ultimate Conference Guide
+  #   url: /guide/
+
+teams:
+  - title: BETA Teams
+    children:
+      - title: Management Board
+        url: /team/board/
+      - title: Trustees
+        url: /team/trustees/
+      - title: Concept and Partnerships
+        url: /team/concept-partnerships/
+      - title: Public Relations
+        url: /team/public-relations/
+      - title: Fundraising
+        url: /team/fundraising/
+      - title: Human Resources
+        url: /team/human-resources/
+      - title: Layout and Design
+        url: /team/layout-design/
+      - title: Translation Services
+        url: /team/translations/
+      - title: Information Technology
+        url: /team/information-technology/
+      - title: Legal Service
+        url: /team/legal-affairs/
+      - title: Trainees
+        url: /team/trainees/

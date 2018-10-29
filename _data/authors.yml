@@ -1,0 +1,31 @@
+# Authors
+
+billy_rick:
+  name: Billy Rick
+  web: http://thewhip.com
+  email: billy@rick.com
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio-photo-2.jpg
+  twitter: extravagantman
+  google:
+    plus: BillyRick
+
+cornelius_fiddlebone:
+  name: Cornelius Fiddlebone
+  email: cornelius@thewhip.com
+  bio: "I ordered what?"
+  avatar: bio-photo.jpg
+  twitter: rhymeswithsackit
+  google:
+    plus: CorneliusFiddlebone
+
+robert_riemann:
+  name: Robert Riemann
+  email: r.riemann@beta-europe.org
+  bio: "Mein Name sei Gantenbein."
+  web: http://blog.riemann.cc
+  avatar: bio-rriemann.jpg
+  twitter: rriemann_eu
+  github: rriemann
+  google:
+    plus: RobertRiemann
