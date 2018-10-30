@@ -20,4 +20,4 @@ We hope we can count on your help and support not only to ensure that this proj
 
 We encourage you to join us in this collective community effort to educate, engage and empower our youth.
 
-For more information, please get in-touch with the President of BETA Netherlands, Casper Kroes (mailto:c.kroes@beta-europe.org)
+For more information, please get in-touch with the President of BETA Netherlands, Casper Kroes <mailto:c.kroes@beta-europe.org>

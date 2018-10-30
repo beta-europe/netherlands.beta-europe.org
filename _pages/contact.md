@@ -20,7 +20,7 @@ A membership form will then be sent to you, and all you need to do is fill it ou
 
 There are many ways to get engaged with and within BETA Netherlands or our flagship project, MEU The Hague.
 
-Please refer to the open calls and the roles descriptions before applying for one of these roles, these will be published on our [facebook page](https://www.facebook.com/NLBETA/)
+Please refer to the open calls and the roles descriptions before applying for one of these roles, these will be published on our [facebook page](https://www.facebook.com/NLBETA/).
 
 You will gain valuable work experience and will be awarded a certification upon completion of your work!
 
