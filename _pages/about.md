@@ -20,14 +20,10 @@ Bringing Europeans Together Association Netherlands (BETA Netherlands) is a non-
 
  **Facts and contact information**
 
-Name: BETA Netherlands (Bringing Europeans Together Association). Also referred to as BETA NL
-
+Name: BETA Netherlands (Bringing Europeans Together Association). Also referred to as BETA NL.
 RSIN: 859345385
-
 Post adress: BETA Netherlands; Arthur van Schendelplein 12; 2624CM Delft
-
 Phone number: +31623738131
-
 E-mail: mailto:c.kroes@beta-europe.org
 
 
