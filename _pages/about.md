@@ -24,7 +24,7 @@ Name: BETA Netherlands (Bringing Europeans Together Association). Also referred 
 
 RSIN: 859345385
 
-Post adress: BETA Netherlands; Arhtur van Schendelplein 12; 2624CM Delft
+Post adress: BETA Netherlands; Arthur van Schendelplein 12; 2624CM Delft
 
 Phone number: +31623738131
 
