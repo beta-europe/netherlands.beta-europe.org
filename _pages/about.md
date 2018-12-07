@@ -16,13 +16,22 @@ Bringing Europeans Together Association Netherlands (BETA Netherlands) is a non-
 
 **MEU The Netherlands**
 
-
-
  The flagship project of BETA Netherlands is Model European Union The Netherlands (MEU The Netherlands) which is scheduled to premiere in July 2019. The project aims to promote knowledge of the decision-making process, representing the way new EU legislation comes to force while fostering mutual understanding and cooperation through debate and dialogue amidst youth within Netherlands and Europe.
 
  **Facts and contact information**
+
 Name: BETA Netherlands (Bringing Europeans Together Association). Also referred to as BETA NL
+
 RSIN: 859345385
+
 Post adress: BETA Netherlands; Arhtur van Schendelplein 12; 2624CM Delft
+
 Phone number: +31623738131
+
 E-mail: mailto:c.kroes@beta-europe.org
+
+
+**Board members**
+Casper Kroes :    Voorzitter
+Frank Cornelisse: Secretaris
+Koen Schrier:     Penningmeester
