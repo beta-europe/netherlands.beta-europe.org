@@ -18,7 +18,7 @@ A membership form will then be sent to you, and all you need to do is fill it ou
 
 ## Get Engaged
 
-There are many ways to get engaged with and within BETA Netherlands or our flagship project, MEU The Hague.
+There are many ways to get engaged with and within BETA Netherlands or our flagship project, MEU The Netherlands.
 
 Please refer to the open calls and the roles descriptions before applying for one of these roles, these will be published on our [facebook page](https://www.facebook.com/NLBETA/).
 

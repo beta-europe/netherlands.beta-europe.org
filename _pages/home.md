@@ -17,7 +17,7 @@ intro_01:
     alt: "BETA General Assembly 2015"
     excerpt:
     |
-      BETA Netherlands is a young, politically independent and non-profit association founded in 2018 by young Europeans in The Hague, Netherlands. Today, BETA Netherlands counts already x members from all across Europe.
+      BETA Netherlands is a young, politically independent and non-profit association founded in 2018 by young Europeans in Delft, Netherlands. Today, BETA Netherlands counts already x members from all across Europe.
     url: "/contact/"
     btn_label: "People behind BETA"
     btn_class: "btn--primary"
