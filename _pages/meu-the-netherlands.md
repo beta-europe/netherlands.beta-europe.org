@@ -1,7 +1,7 @@
 ---
 title: MEU The Hague
 modified: '2018-09-21T19:24:40+03:00'
-excerpt: MEUAthens
+excerpt: MEU Netherlands
 toc: false
 share: true
 published: true
