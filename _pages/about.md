@@ -29,6 +29,7 @@ E-mail: <mailto:c.kroes@beta-europe.org>
 
 
 **Board members**
+
 Casper Kroes :    Voorzitter
 
 Frank Cornelisse: Secretaris
