@@ -11,8 +11,7 @@ This is the page is meant for the purpose of publishing documents for the Dutch 
 Hieronder zal onze beleidsplan geupload worden die alle informatie om te voldoen aan een ANBI status bevat. Een deel van de informatie die vereist is voor ANBI status zal ook gepubliceerd worden op <http://www.netherlands.beta-europe.org/about> en <http://www.netherlands.beta-europe.org/team> maar al deze informatie zal in Nederlandstalige vorm in onderstaand bestand staan:
 
 
-[//]: <> ([beleidsplan 2019](/assets/files/BeleidsplanBETANL2019.pdf))
-[//]: <> (this should be a hidden comment)
+
 
 ## hoofdlijnen beleidsplan
 
@@ -25,3 +24,6 @@ Aangezien de vereniging nog vrij nieuw is verwachten we een bescheiden ledenontw
 
 ### Andere activiteiten
 Naast MEU NL wil de vereniging zich ook gaan richten op het organiseren van andere activiteiten in het kader van de Europese Unie. Doel is om hierbij toenadering te zoeken tot andere politieke organisaties of jongerenverenigingen.
+
+[//]: <> ([beleidsplan 2019](/assets/files/BeleidsplanBETANL2019.pdf))
+[//]: <> (this should be a hidden comment)
