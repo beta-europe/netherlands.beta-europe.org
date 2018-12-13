@@ -36,5 +36,5 @@ Frank Cornelisse: Secretaris
 
 Koen Schrier:     Penningmeester
 
-**reimbursement policy**
+**Reimbursement policy**
 Our (board) members can only receive funds from the association as a reimbursement of costs made in executing tasks for the association that are in line with it's purpose and goals. No other funds can be distributed to any members. BETA NL is a non-profit association.
