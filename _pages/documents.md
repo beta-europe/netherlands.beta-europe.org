@@ -12,7 +12,7 @@ Hieronder zal onze beleidsplan geupload worden die alle informatie om te voldoen
 
 [beleidsplan 2019](/assets/files/BeleidsplanBETANL2019.pdf)
 
-## hoofdlijnen beleidsplan
+## Hoofdlijnen beleidsplan
 
 ### MEUNL
 
@@ -24,5 +24,5 @@ Aangezien de vereniging nog vrij nieuw is verwachten we een bescheiden ledenontw
 ### Andere activiteiten
 Naast MEU NL wil de vereniging zich ook gaan richten op het organiseren van andere activiteiten in het kader van de Europese Unie. Doel is om hierbij toenadering te zoeken tot andere politieke organisaties of jongerenverenigingen.
 
-## financiële verantwoording
+## Financiële verantwoording
 De financiële verantwoording zal na ons eerste boekjaar dat eindigt op 31-12-2019 geüpload worden.
