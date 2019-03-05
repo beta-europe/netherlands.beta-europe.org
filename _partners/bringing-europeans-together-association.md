@@ -10,6 +10,9 @@ excerpt: >-
   because this is our mission: to strengthen the European society by encouraging
   democratic processes and consciousness about the plurality of European
   identities, both on national and international level.
+country: Belgium
+town: Brussels
+geo: '50.8503, 4.3517'
 header:
   teaser: /assets/images/partners-beta-europe.png
 ---
