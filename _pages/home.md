@@ -27,7 +27,7 @@ intro_02:
     alt: "Model EU in Strasbourg 2016"
     excerpt:
     |
-      Our main goal is to promote mutual understanding and cooperation between young Europeans and to contribute to the spreading of European ideas. It aims to achieve this goal by organising political simulations on local, regional and European level that mirror the functioning of the institutions of the EU end the legislative procedure of the EU for educational purposes.
+      Our main goal is to promote mutual understanding and cooperation between young Europeans and to contribute to the spreading of European ideas. It aims to achieve this goal by organising political simulations on local, regional and European level that mirror the functioning of the institutions of the EU and the legislative procedure of the EU for educational purposes.
     url: "/about/"
     btn_label: "About Us"
     btn_class: "btn--primary"
