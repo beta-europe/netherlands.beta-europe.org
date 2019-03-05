@@ -1,4 +1,6 @@
 [submodule "admin"]
 	path = admin
 	url = https://github.com/beta-europe/cms-admin
-	branch = origin
+[submodule "cms-admin"]
+	path = cms-admin
+	url = https://github.com/beta-europe/cms-admin.git
