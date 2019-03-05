@@ -27,7 +27,7 @@ intro_02:
     alt: "Model EU in Strasbourg 2016"
     excerpt:
     |
-      Our main goals are to foster European identity and consciousness based on plurality, tolerance and cooperation between individuals, as well as strengthening European civil society by further developing democratic process on both national and international level.
+      Our main goal is to promote mutual understanding and cooperation between young Europeans and to contribute to the spreading of European ideas. It aims to achieve this goal by organising political simulations on local, regional and European level that mirror the functioning of the institutions of the EU end the legislative procedure of the EU for educational purposes.
     url: "/about/"
     btn_label: "About Us"
     btn_class: "btn--primary"
