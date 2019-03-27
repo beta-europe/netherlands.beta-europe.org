@@ -22,7 +22,7 @@ main:
     url: /documents/
 
   - title: Privacy Policy
-      url: /privacy-policy/
+    url: /privacy-policy/
 
   # - title: Ultimate Conference Guide
   #   url: /guide/
