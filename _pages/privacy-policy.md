@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy membership
+title: Privacy Policy
 excerpt: BETA NL privacy policy
 sitemap: false
 share: false
