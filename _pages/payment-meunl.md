@@ -7,6 +7,8 @@ comments: true
 permalink: /payment-meunl/
 ---
 **We prefer payments via bank transfer to NL47ABNA0834985608 if you are paying from within the EUROzone**
+
+
 If you are not in the eurozone or want to pay via PayPal nevertheless you can pay via the button below:
 
 
