@@ -8,7 +8,7 @@ permalink: /payment-meunl-non-eu/
 ---
 You can pay for your particpation in MEU NL here after you have been selected. Doing this means you agree with our [privacy policy](https://netherlands.beta-europe.org/privacy-policy) and the MEU NL Terms and Conditions
 
-**If you pay by Bank Transfer you do not pay transaction costs**
+**If you pay by Bank Transfer you do not pay transaction costs, the money can be transfered to BETA Netherlands with bank account number NL47ABNA0834985608**
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
