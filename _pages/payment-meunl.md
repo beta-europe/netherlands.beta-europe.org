@@ -8,8 +8,9 @@ permalink: /payment-meunl/
 ---
 You can pay for your particpation in MEU NL here after you have been selected. Doing this means you agree with our [privacy policy](https://netherlands.beta-europe.org/privacy-policy) and the MEU NL Terms and Conditions
 
-If you are NOT in the eurozone you can pay via the button below:
+**If you are in the EUROzone we prefer payment by bank transfer, this saves us a lot of transaction costs**
 
+If you are NOT in the eurozone you can pay via the button below:
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
