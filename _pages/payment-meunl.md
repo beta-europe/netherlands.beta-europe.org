@@ -10,6 +10,6 @@ Welcome on the payment page for MEU NL!
 
 Please select which is true for you:
 
-[I intend to pay from a bank account in Euros](netherlands.beta-europe.org/payment-meunl-eu)
+[I intend to pay from a bank account in Euros](/payment-meunl-eu)
 
-[I intend to pay from a bank account with any other currency](netherlands.beta-europe.org/payment-meunl-non-eu)
+[I intend to pay from a bank account with any other currency](/payment-meunl-non-eu)
