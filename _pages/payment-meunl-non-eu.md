@@ -1,6 +1,6 @@
 ---
-title: Payment for MEU NL
-excerpt: MEU NL Payment page
+title: Payment for MEU NL (foreign currency)
+excerpt: MEU NL Payment page (foreign currency)
 sitemap: false
 share: false
 comments: true

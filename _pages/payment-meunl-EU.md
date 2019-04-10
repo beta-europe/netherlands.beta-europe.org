@@ -1,6 +1,6 @@
 ---
-title: Payment for MEU NL
-excerpt: MEU NL Payment page
+title: Payment for MEU NL in Euros
+excerpt: MEU NL Payment page (Euro)
 sitemap: false
 share: false
 comments: true
