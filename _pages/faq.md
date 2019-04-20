@@ -7,7 +7,8 @@ share: true
 published: true
 author_profile: true
 permalink: /meunl-faq/
-image: /assets/images/den_haag.jpg
+header:
+  image: /assets/images/den_haag.jpg
 ---
 
 # What is an MEU?
