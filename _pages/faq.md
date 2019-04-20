@@ -1,7 +1,7 @@
 ---
 title: MEU The Netherlands
 modified: '2018-09-21T19:24:40+03:00'
-excerpt: Frequently asked questions MEU NL:
+excerpt: Frequently asked questions MEU NL
 toc: false
 share: true
 published: true
