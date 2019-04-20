@@ -2,13 +2,11 @@
 title: MEU The Netherlands
 modified: '2018-09-21T19:24:40+03:00'
 excerpt: Frequently asked questions MEU NL
-toc: false
-share: true
-published: true
-author_profile: true
-permalink: /meunl-faq/
 header:
   image: /assets/images/den_haag.jpg
+share: true
+published: true
+permalink: /meunl-faq/
 ---
 
 # What is an MEU?
