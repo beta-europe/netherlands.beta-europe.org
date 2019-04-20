@@ -38,3 +38,6 @@ The deadline to apply is the 28th of April so make sure you apply in time!
 # How can I travel to the Hague affordably?
 
 Be creative if you're looking for an indication of the price! You can fly to Schiphol, Rotterdam or Eindhoven and get the train from there and there are multiple international bus and train options. Flying to Amsterdam Airport Schiphol might very well not be the most attractive option during this time so try to look into multiple options. And it might be cheaper than you would expect.
+
+***Know everything you need to know?***
+Apply now [here](https://docs.google.com/forms/u/2/d/1TPLp0oxEayz6Ra1WQEgB2ivfLOcT7OUJl__lkx0sSSQ/edit?usp=drive_web)!
