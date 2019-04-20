@@ -1,7 +1,7 @@
 ---
-title: MEU The Netherlands
+title: Frequently Asked Questions MEU NL
 modified: '2018-09-21T19:24:40+03:00'
-excerpt: Frequently asked questions MEU NL
+excerpt: Frequently Asked Questions MEU NL
 header:
   image: /assets/images/den_haag.jpg
 share: true
