@@ -32,14 +32,14 @@ intro_02:
     btn_label: "About Us"
     btn_class: "btn--primary"
 intro_03:
-  - title: Our Work
-    image_path: /assets/images/MEUS2017_2.JPG
-    alt: "Conference Chairs of Model EU Strasbourg 2017"
+  - title: What is an MEU?
+    image_path: /assets/images/meu2019group.jpg
+    alt: "European Parliament"
     excerpt:
     |
-      To pursue these goals, BETA Netherlands organises simulations of the European legislative procedure called “Model European Union (MEU)”. BETA Netherlands is an official member of federal association BETA Europe. Over the years, BETA Europe has acquired a large and consistently increasing network of partner organisations that organise MEU conferences in various countries.
-    url: "/calendar/"
-    btn_label: "Conference Calendar"
+      An MEU, or Model European Union, is a political simulation where you get to learn about and simulate the inner workings of the European Union institutions, in particular the European Parliament and the Council of the European Union.
+    url: "/meunl20/"
+    btn_label: "Learn More"
     btn_class: "btn--primary"
 
 ---
