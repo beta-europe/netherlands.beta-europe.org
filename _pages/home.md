@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/councilmeunl19.jpg
-  cta_label: "Get to know our project"
+  cta_label: "Get to know our projects"
   cta_url: "/meunl20"
 excerpt: "Bringing Europeans Together Association Netherlands, BETA Netherlands for short, is a politically independent and non-profit association to support the organisation of European politics simulations."
 intro_01:
