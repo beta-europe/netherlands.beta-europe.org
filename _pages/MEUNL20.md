@@ -7,7 +7,11 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/delft.jpg
-excerpt: ""
+excerpt: "
+
+
+
+"
 intro_01:
   - title: What is an MEU?
     image_path: /assets/images/europeanparliament.jpg
@@ -29,9 +33,13 @@ intro_03:
     excerpt:
     |
       Here at MEU Netherlands, we’ve got something for everyone’s tastes! Take your pick between four roles: Member of the European Parliament, Minister, Lobbyist, or Journalist. As an MEP or Minister, you will debate and propose amendments to two legislative proposals of the European Commission. As a Lobbyist, you will try to influence legislators and push your interests. Finally, as a Journalist, you will have the opportunity to write articles, interview legislators and lobbyists, and gain an insight into the world of political journalism.
-    url: "/calendar/"
-    btn_label: "Conference Calendar"
-    btn_class: "btn--primary"
+  intro_04:
+  - title: How to Apply
+    image_path: /assets/images/oc2020.jpg
+    alt: "Apply now!"
+    excerpt:
+    |
+      Applications for participants will open on the 17th of February 2020, so make sure to check back later for more updates! If you want to be the first to know when the open call is launched, follow us on [Facebook](http://facebook.com/meunl) or [Instagram](http://instagram.com/beta_netherlands)!
 
 ---
 
@@ -40,6 +48,8 @@ intro_03:
 {% include feature_row id="intro_02" type="right" %}
 
 {% include feature_row id="intro_03" type="left" %}
+
+{% include feature_row id="intro_04" type="right" %}
 
 <div class="layout--splash__recent--posts">
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
