@@ -5,7 +5,7 @@ permalink: /
 date: 2017-10-15 01:48:41 -04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/councilmeunl19.jpg
   cta_label: "Get to know our projects"
   cta_url: "/meunl20"
