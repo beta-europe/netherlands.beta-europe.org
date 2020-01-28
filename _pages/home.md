@@ -6,10 +6,9 @@ date: 2017-10-15 01:48:41 -04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/header-meu2015.jpg
-  cta_label: "Join Our Network"
-  cta_url: "http://forum.beta-europe.org"
-  caption: "Photo credit: [**MEUS 2015**](http://www.meu-strasbourg.org)"
+  overlay_image: /assets/images/councilmeunl19.jpg
+  cta_label: "Get to know our project"
+  cta_url: "/meunl20"
 excerpt: "Bringing Europeans Together Association Netherlands, BETA Netherlands for short, is a politically independent and non-profit association to support the organisation of European politics simulations."
 intro_01:
   - title: Our Association
