@@ -7,6 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/delft.jpg
+excerpt: ""
 intro_01:
   - title: What is an MEU?
     image_path: /assets/images/europeanparliament.jpg
