@@ -1,11 +1,5 @@
 # main links
 main:
-  - title: About
-    url: /about/
-
-  - title: Contact
-    url: /contact/
-
   - title: Model EU Netherlands
     url: /MEUNL20/
 
@@ -17,6 +11,12 @@ main:
 
   - title: Documenten (NL)
     url: /documents/
+
+  - title: About
+    url: /about/
+
+  - title: Contact
+    url: /contact/
 
   - title: Privacy Policy
     url: /privacy-policy/
