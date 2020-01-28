@@ -33,7 +33,7 @@ intro_03:
     excerpt:
     |
       Here at MEU Netherlands, we’ve got something for everyone’s tastes! Take your pick between four roles: Member of the European Parliament, Minister, Lobbyist, or Journalist. As an MEP or Minister, you will debate and propose amendments to two legislative proposals of the European Commission. As a Lobbyist, you will try to influence legislators and push your interests. Finally, as a Journalist, you will have the opportunity to write articles, interview legislators and lobbyists, and gain an insight into the world of political journalism.
-  intro_04:
+intro_04:
   - title: How to Apply
     image_path: /assets/images/oc2020.jpg
     alt: "Apply now!"
