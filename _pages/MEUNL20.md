@@ -50,5 +50,3 @@ intro_04:
 {% include feature_row id="intro_03" type="left" %}
 
 {% include feature_row id="intro_04" type="right" %}
-
-</div>
