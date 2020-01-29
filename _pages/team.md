@@ -4,7 +4,7 @@ title: "Our Management Board"
 permalink: /team/
 author_profile: true
 ---
-Het bestuur van BETA Netherlands (Bringing Europeans Together Association) bestaat uit de volgende personen:
+The Management Board of BETA Netherlands consists of the following people:
 
 
 
