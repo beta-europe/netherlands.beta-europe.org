@@ -10,19 +10,19 @@ minimal_mistakes_skin : "beta" # "default", "air", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en"
-title                    : "BETA Netherlands"
+title                    : "BETA Europe"
 title_separator          : "-"
-name                     : "Bringing Europeans Together Association Netherlands"
+name                     : "Bringing Europeans Together Association e.V."
 description              : "EU Politics Simulations"
-url                      : "https://netherlands.beta-europe.org"
+url                      : "https://www.beta-europe.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "beta-europe/netherlands.beta-europe.org"
+repository               : "beta-europe/www.beta-europe.org"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 search                   : true
 comments:
-  provider               : # "discourse" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "discourse" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -51,10 +51,15 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 cms:
-  has_conference         : false
+  has_conference         : true
+  has_members            : true
+  has_observers          : true
 
 # Related to Forum API
 forum_api: https://forum.beta-europe.org
+
+# Stripe
+stripe_public_key: pk_live_1gz0SmUMlPWVoaiXtgJezHqP
 
 # SEO Related
 google_site_verification :
@@ -81,24 +86,24 @@ social:
 analytics:
   provider               : # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : # "UA-70785498-1"
+    tracking_id          : "UA-70785498-1"
 
 
 # Site Author
 author:
-  name             : "BETA Netherlands"
+  name             : "BETA Europe"
   avatar           :  # path of avatar image, e.g. "/assets/images/beta-logo-180-transparent.png"
-  bio              : "Bringing Europeans Together Association Netherlands"
-  location         : "The Hague, Netherlands"
-  email            : contact@netherlands.beta-europe.org
+  bio              : "Bringing Europeans Together Association"
+  location         :
+  email            : contact@beta-europe.org
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "nlbeta"
+  facebook         : "BringingEuropeansTogetherAssociation"
   foursquare       :
-  github           : "orgs/beta-europe/teams/beta-netherlands"
+  github           : "beta-europe"
   gitlab           :
   google_plus      :
   keybase          :
@@ -110,7 +115,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "BETA_Europe"
   vine             :
   weibo            :
   xing             :
@@ -186,7 +191,7 @@ sass:
 permalink: /:year/:month/:day/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /news/page:num/
-timezone: "Europe/Athens" # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Europe/Paris" # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -253,6 +258,14 @@ collections:
     title: Partners
     output: true
     permalink: "/partner/:path/"
+  members:
+    title: Members
+    output: true
+    permalink: "/member/:path/"
+  observers:
+    title: Observers
+    output: true
+    permalink: "/observer/:path/"
   teams:
     title: Teams
     output: true
@@ -261,6 +274,10 @@ collections:
     title: Pages
     output: true
     permalink: "/:slug/"
+  teammembers:
+    title: Teammembers
+    output: true
+    permalink: "/teammembers/:path/"
 
 # Defaults
 defaults:
@@ -317,6 +334,28 @@ defaults:
       share: true
       edit: true
       related: false
+  # _observers
+  - scope:
+      path: ''
+      type: observers
+    values:
+      layout: partner_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
+  # _members
+  - scope:
+      path: ''
+      type: members
+    values:
+      layout: partner_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
   # _teams
   - scope:
       path: ''
@@ -330,3 +369,14 @@ defaults:
       related: false
       sidebar:
         nav: teams
+  # _teammembers
+  - scope:
+      path: ''
+      type: teammembers
+    values:
+      layout: team_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
