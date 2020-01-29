@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.3"
   overlay_image: /assets/images/councilmeunl19.jpg
   cta_label: "Get to know our projects"
-  cta_url: "/meunl20"
+  cta_url: "/meunl20/"
 excerpt: "Bringing Europeans Together Association Netherlands, BETA Netherlands for short, is a politically independent and non-profit association to support the organisation of European politics simulations."
 intro_01:
   - title: Our Association
@@ -17,7 +17,7 @@ intro_01:
     excerpt:
     |
       BETA Netherlands is a young, politically independent and non-profit (ANBI) association founded in 2018 by young Europeans in Delft, Netherlands.
-    url: "/contact/"
+    url: "/team/"
     btn_label: "People behind BETA Netherlands"
     btn_class: "btn--primary"
 intro_02:
