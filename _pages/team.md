@@ -4,7 +4,7 @@ title: "Our Management Board"
 permalink: /team/
 author_profile: true
 ---
-BETA Europe is managed by its Management Board and Extended Management Board
+Het bestuur van BETA Netherlands (Bringing Europeans Together Association) bestaat uit de volgende personen:
 
 
 
