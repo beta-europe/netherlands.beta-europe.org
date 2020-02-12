@@ -13,7 +13,7 @@ sidebar:
         Please [contact us](/contact/) to learn more about partnerships.
 ---
 
-The network of BETA Europe is strong thanks to its partners.
+MEU Netherlands would not be possible without our partners.
 
 {% include map.html geojson="/partners.geojson" %}
 
