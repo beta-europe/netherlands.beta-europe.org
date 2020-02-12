@@ -5,7 +5,7 @@ website: 'https://www.montesquieu-instituut.nl/'
 twitter:
 mail:
 excerpt: >-
-The Montesquieu Institute is a multidisciplinary institute at the intersection of democracy, politics and parliamentary decision-making in the Netherlands and Europe. That also organises the Model European Parliament in the Netherlands, a simulation of the EP for High School students.
+  The Montesquieu Institute is a multidisciplinary institute at the intersection of democracy, politics and parliamentary decision-making in the Netherlands and Europe. That also organises the Model European Parliament in the Netherlands, a simulation of the EP for High School students.
 country: Netherlands
 town: The Hague
 geo: '52.082394, 4.312183'
