@@ -10,7 +10,7 @@ sidebar:
     # image_alt: Logo of BETA Europe
     text:
       |
-        Please [contact us](/contact/) to learn more about partnerships.
+        Please [contact us](mailto:netherlands@beta-europe.org) to learn more about partnerships.
 ---
 
 MEU Netherlands would not be possible without our partners.
