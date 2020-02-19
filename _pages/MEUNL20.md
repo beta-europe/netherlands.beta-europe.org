@@ -39,7 +39,7 @@ intro_04:
     alt: "Apply now!"
     excerpt:
     |
-      Applications are now open! Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdJgKiN4IN_PWTrB1AxE64DhYx14bQ2ZWfhgGq3Zj7nciTKxA/viewform?usp=sf_link) or read our (application guidelines)[https://drive.google.com/file/d/1JJ1qAEwJVGccDgoTntfzuOkG83DllA2F/view?usp=sharing]. If you want to be the first to know when the open call is launched, follow us on [Facebook](http://facebook.com/meunl) or [Instagram](http://instagram.com/beta_netherlands)!
+      Applications are now open! Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdJgKiN4IN_PWTrB1AxE64DhYx14bQ2ZWfhgGq3Zj7nciTKxA/viewform?usp=sf_link) or read our (application guidelines)[https://drive.google.com/file/d/1JJ1qAEwJVGccDgoTntfzuOkG83DllA2F/view?usp=sharing]. If you want stay up-to-date with the project, follow us on [Facebook](http://facebook.com/meunl) or [Instagram](http://instagram.com/beta_netherlands)!
 
 ---
 
