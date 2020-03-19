@@ -36,10 +36,10 @@ intro_03:
 intro_04:
   - title: How to Apply
     image_path: /assets/images/oc2020.jpg
-    alt: "Apply now!"
+    alt: "Applications"
     excerpt:
     |
-      Applications are now open! [Apply here](https://docs.google.com/forms/d/e/1FAIpQLSdJgKiN4IN_PWTrB1AxE64DhYx14bQ2ZWfhgGq3Zj7nciTKxA/viewform?usp=sf_link) or read our [application guidelines](https://drive.google.com/file/d/1JJ1qAEwJVGccDgoTntfzuOkG83DllA2F/view?usp=sharing). If you want stay up-to-date with the project, follow us on [Facebook](http://facebook.com/meunl) or [Instagram](http://instagram.com/beta_netherlands)!
+      Applications are currently closed. If you want stay up-to-date with the project, follow us on [Facebook](http://facebook.com/meunl) or [Instagram](http://instagram.com/beta_netherlands)!
 
 ---
 
