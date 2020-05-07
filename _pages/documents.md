@@ -25,4 +25,4 @@ Aangezien de vereniging nog vrij nieuw is verwachten we een bescheiden ledenontw
 Naast MEU NL wil de vereniging zich ook gaan richten op het organiseren van andere activiteiten in het kader van de Europese Unie. Doel is om hierbij toenadering te zoeken tot andere politieke organisaties of jongerenverenigingen.
 
 ## Financiële verantwoording
-De financiële verantwoording zal na ons eerste boekjaar dat eindigt op 31-12-2019 geüpload worden.
+[2019](/assets/files/Yearly Report BETA Netherlands 2019.pdf)
