@@ -1,5 +1,5 @@
 ---
-title: Welcome to MEU Netherlands 2020!
+title: Welcome to MEU Netherlands 2021!
 layout: splash
 permalink: /MEUNL20
 date: 2019-01-28 01:48:41 -01:00
@@ -25,7 +25,7 @@ intro_02:
     alt: "Model EU Netherlands 2019"
     excerpt:
     |
-      Our 2020 edition will take place between the **13th and the 16th of July** in the picturesque city of **Delft**, just 15 minutes away from both The Hague and Rotterdam. During the 4-day simulation, you will have the opportunity to debate two exciting legislative proposals, take part in our evening socials, and meet youngsters from all over Europe and beyond.
+      Our 2021 edition will take place in the summer of 2021 in The Hague, the administrative heart of the Netherlands. During the 4-day simulation, you will have the opportunity to debate two exciting legislative proposals, take part in our evening socials, and meet youngsters from all over Europe and beyond.
 intro_03:
   - title: Roles Available
     image_path: /assets/images/buecken.jpg
@@ -39,7 +39,7 @@ intro_04:
     alt: "Applications"
     excerpt:
     |
-      Applications are currently closed. If you want stay up-to-date with the project, follow us on [Facebook](http://facebook.com/meunl) or [Instagram](http://instagram.com/beta_netherlands)!
+      Applications are not open yet. If you want stay up-to-date with the project, follow us on [Facebook](http://facebook.com/meunl) or [Instagram](http://instagram.com/beta_netherlands)!
 
 ---
 
