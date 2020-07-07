@@ -14,7 +14,7 @@ The purpose of the association is to promote mutual understanding and cooperatio
 
 **MEU The Netherlands**
 
- The flagship project of BETA Netherlands is Model European Union The Netherlands (MEU The Netherlands) which is scheduled to premiere in July 2019 and will host around 100 participants from all over Europe. The project aims to promote knowledge of the decision-making process, representing the way new EU legislation comes to force while fostering mutual understanding and cooperation through debate and dialogue amidst youth within Netherlands and Europe.
+ The annual flagship project of BETA Netherlands is Model European Union The Netherlands (MEU The Netherlands) which premiered in July 2019. The project aims to promote knowledge of the decision-making process, representing the way new EU legislation comes to force while fostering mutual understanding and cooperation through debate and dialogue amidst youth within Netherlands and Europe.
 
  **Facts and contact information**
 
