@@ -16,6 +16,6 @@ If you are ***NOT*** paying from a bank account in Euros you can pay via the but
 <table>
 <tr><td><input type="hidden" name="on0" value="Name">Name</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
 </table>
-<input type="image" src="https://www.paypalobjects.com/nl_NL/NL/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal, de veilige en complete manier van online betalen.">
+<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/nl_NL/i/scr/pixel.gif" width="1" height="1">
 </form>
