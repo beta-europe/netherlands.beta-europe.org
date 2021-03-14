@@ -1,12 +1,12 @@
 ---
-title: Payment for MEU NL
-excerpt: MEU NL Payment page
+title: Payment for MEUNL
+excerpt: MEUNL Payment page
 sitemap: false
 share: false
-comments: true
+comments: false
 permalink: /payment-meunl/
 ---
-Welcome on the payment page for MEU NL!
+Welcome on the security deposit payment page for MEUNL!
 
 Please select which is true for you:
 

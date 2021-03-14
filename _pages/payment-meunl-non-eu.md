@@ -1,12 +1,12 @@
 ---
-title: Payment for MEU NL (foreign currency)
-excerpt: MEU NL Payment page (foreign currency)
+title: Payment for MEUNL (foreign currency)
+excerpt: MEUNL Payment page (foreign currency)
 sitemap: false
 share: false
-comments: true
+comments: false
 permalink: /payment-meunl-non-eu/
 ---
-You can pay for your particpation in MEU NL here after you have been selected. Doing this means you agree with our [privacy policy](https://netherlands.beta-europe.org/privacy-policy) and the MEU NL Terms and Conditions.
+You can pay your security deposit for MEUNL2021 here after you have been selected. Doing this means you agree with our [privacy policy](https://netherlands.beta-europe.org/privacy-policy) and the MEUNL Terms and Conditions.
 
 If you are ***NOT*** paying from a bank account in Euros you can pay via the button below:
 
