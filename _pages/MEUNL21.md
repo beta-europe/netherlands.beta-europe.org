@@ -25,7 +25,7 @@ intro_02:
     alt: "Model EU Netherlands 2019"
     excerpt:
     |
-      Our 2021 edition will take place in the summer of 2021 in The Hague, the administrative heart of the Netherlands. During the 4-day simulation, you will have the opportunity to debate two exciting legislative proposals, take part in our evening socials, and meet youngsters from all over Europe and beyond.
+      Our 2021 edition will take place online in the summer 2021 on july 19th-22nd. During the 4-day simulation, you will have the opportunity to debate two exciting legislative proposals, take part in our evening socials, and meet young people from all over Europe and beyond.
 intro_03:
   - title: Roles Available
     image_path: /assets/images/buecken.jpg
@@ -39,7 +39,7 @@ intro_04:
     alt: "Applications"
     excerpt:
     |
-      Applications are not open yet. If you want stay up-to-date with the project, follow us on [Facebook](http://facebook.com/meunl) or [Instagram](http://instagram.com/beta_netherlands)!
+      If you want stay up-to-date with the project, follow us on [Facebook](http://facebook.com/meunl) or [Instagram](http://instagram.com/beta_netherlands)! Applications are open untill May 14th [here](http://bit.ly/MEUNL21)
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-slug: koen-schrier
-title: Koen Schrier
+slug: robert-goia
+title: Robert Stefan Goia
 function: penningmeester
-mail: mailto:k.schrier@beta-europe.org
+mail: mailto:r.goia@beta-europe.org
 header:
-  teaser: /assets/images/koen-schrier.png
+  teaser: 
 ---
