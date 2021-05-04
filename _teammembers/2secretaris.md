@@ -1,8 +1,8 @@
 ---
-slug: frank-cornelisse
-title: Frank Cornelisse
-function: Secretaris
-mail: mailto:f.cornelisse@beta-europe.org
+slug:
+title:
+function:
+mail:
 header:
   teaser:
 ---
