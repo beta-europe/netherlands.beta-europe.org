@@ -26,4 +26,6 @@ Naast MEU NL wil de vereniging zich ook gaan richten op het organiseren van ande
 
 ## Financiële verantwoording
 [2020](/assets/files/ANBI Form 2020.pdf)
+
+
 [2018/2019](/assets/files/Yearly Report BETA Netherlands 2019.pdf)
