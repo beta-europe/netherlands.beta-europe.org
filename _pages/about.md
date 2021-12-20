@@ -12,7 +12,7 @@ Bringing Europeans Together Association Netherlands (BETA Netherlands) is a non-
 The purpose of the association is to promote mutual understanding and cooperation between young Europeans and to contribute to the spreading of European ideas. It aims to achieve this goal by organising political simulations on local, regional and European level that mirror the functioning of the institutions of the EU end the legislative procedure of the EU for educational purposes. The association will organise events such as “Model European Union The Netherlands” to achieve it's goal.
 
 
-**MEU The Netherlands**
+**MEU  Netherlands**
 
  The annual flagship project of BETA Netherlands is Model European Union The Netherlands (MEU The Netherlands) which premiered in July 2019. The project aims to promote knowledge of the decision-making process, representing the way new EU legislation comes to force while fostering mutual understanding and cooperation through debate and dialogue amidst youth within Netherlands and Europe.
 
@@ -30,11 +30,14 @@ E-mail: <mailto:c.kroes@beta-europe.org>
 
 **Board members**
 
-Casper Kroes :    Voorzitter
+Casper Kroes :      President
 
-Frank Cornelisse: Secretaris
+Robert Stefan Goia: Penningmeester
 
-Koen Schrier:     Penningmeester
+Michiel Bots:       Commissaris Extern
+
+Elena Gladun:       Commissaris evenementen
+
 
 **Reimbursement policy**
 Our (board) members can only receive funds from the association as a reimbursement of costs made in executing tasks for the association that are in line with it's purpose and goals. No other funds can be distributed to any members. BETA NL is a non-profit association.
