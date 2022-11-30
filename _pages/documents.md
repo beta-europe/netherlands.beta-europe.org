@@ -26,7 +26,7 @@ Naast MEU NL wil de vereniging zich ook gaan richten op het organiseren van ande
 
 ## Financiële verantwoording
 [2021 activities](/assets/files/BETANetherlandsActivityReport2021.pdf)
-[2021 financial report](#)
+[2021 financial report](/assets/files/FINANCIAL_REPORT_2021_BETA_NETHERLANDS.docx.pdf)
 
 [2020](/assets/files/ANBI Form 2020.pdf)
 
