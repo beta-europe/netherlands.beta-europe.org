@@ -1,8 +1,8 @@
 ---
-slug: michiel-bots
-title: Michiel Bots
-function: Commissaris Extern
-mail: mailto:m.bots@beta-europe.org
+slug: Octavian-Mocreac
+title: Octavian Mocrac
+function: Commissaris Evenementen
+mail: mailto:octavian.mocreac@model-eu.nl
 header:
-  teaser: /assets/images/michiel-bots.jpg
+  teaser: 
 ---

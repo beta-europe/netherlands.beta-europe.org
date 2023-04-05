@@ -1,8 +1,8 @@
 ---
-slug: robert-goia
-title: Robert Stefan Goia
+slug: marisa-de-schepper
+title: Marisa de Schepper
 function: penningmeester
-mail: mailto:r.goia@beta-europe.org
+mail: mailto:marisa.deschepper@model-eu.nl
 header:
-  teaser: /assets/images/robert-goia.jpeg
+  teaser: 
 ---

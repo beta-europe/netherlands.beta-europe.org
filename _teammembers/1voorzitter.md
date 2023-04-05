@@ -1,8 +1,8 @@
 ---
-slug: casper-kroes
-title: Casper Kroes
+slug: Robert-Stefan-Goia
+title: Robert Stefan Goia
 function: Voorzitter
-mail: mailto:c.kroes@beta-europe.org
+mail: mailto:robert.goia@model-eu.nl
 header:
-  teaser: /assets/images/casper-kroes.jpg
+  teaser: /assets/images/robert-goia.jpeg
 ---
