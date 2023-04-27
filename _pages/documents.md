@@ -25,6 +25,8 @@ Aangezien de vereniging nog vrij nieuw is verwachten we een bescheiden ledenontw
 Naast MEU NL wil de vereniging zich ook gaan richten op het organiseren van andere activiteiten in het kader van de Europese Unie. Doel is om hierbij toenadering te zoeken tot andere politieke organisaties of jongerenverenigingen.
 
 ## Financiële verantwoording
+[2022 activities](/assets/files/Annual BETA Netherlands Activity Report for the General Assembly March 2023.docx.pdf)
+[2022 financial report](assets/files/BETA Netherlands Financial Report 2022.pdf)
 [2021 activities](/assets/files/BETANetherlandsActivityReport2021.pdf)
 [2021 financial report](/assets/files/FINANCIAL_REPORT_2021_BETA_NETHERLANDS.docx.pdf)
 
