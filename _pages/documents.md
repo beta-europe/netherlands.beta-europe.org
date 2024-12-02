@@ -10,7 +10,7 @@ This is the page is meant for the purpose of publishing documents for the Dutch 
 
 Hieronder zal onze beleidsplan geüpload worden die alle informatie om te voldoen aan een ANBI status bevat. Een deel van de informatie die vereist is voor ANBI status zal ook gepubliceerd worden op <http://www.netherlands.beta-europe.org/about> en <http://www.netherlands.beta-europe.org/team> maar al deze informatie staat in Nederlandstalige vorm in onderstaand bestand:
 
-[beleidsplan 2019](/assets/files/BeleidsplanBETANL2019.pdf)
+[beleidsplan 2019](/assets/files/policy-plan-2019.pdf)
 
 ## Hoofdlijnen beleidsplan
 
@@ -27,16 +27,16 @@ Naast MEU NL wil de vereniging zich ook gaan richten op het organiseren van ande
 ## Financiële verantwoording
 [2023 activities](/assets/files/activities-2023.pdf)
 
-[2023 financial report](/assets/files/FINANCIAL STATEMENT 2023.pdf)
+[2023 financial report](/assets/files/financials-2023.pdf)
 
-[2022 activities](/assets/files/Annual BETA Netherlands Activity Report for the General Assembly March 2023.docx.pdf)
+[2022 activities](/assets/files/activities-2022.pdf)
 
-[2022 financial report](/assets/files/BETA Netherlands Financial Report 2022.pdf)
+[2022 financial report](/assets/files/financials-2022.pdf)
 
-[2021 activities](/assets/files/BETANetherlandsActivityReport2021.pdf)
+[2021 activities](/assets/files/activities-2021.pdf)
 
-[2021 financial report](/assets/files/FINANCIAL_REPORT_2021_BETA_NETHERLANDS.docx.pdf)
+[2021 financial report](/assets/files/financials-2021.pdf)
 
-[2020](/assets/files/ANBI Form 2020.pdf)
+[2020](/assets/files/financials-2020.pdf)
 
-[2018/2019](/assets/files/Yearly Report BETA Netherlands 2019.pdf)
+[2018/2019](/assets/files/financials-2019.pdf)
