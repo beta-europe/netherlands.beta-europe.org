@@ -8,9 +8,9 @@ author_profile: true
 
 This is the page is meant for the purpose of publishing documents for the Dutch authorities and will therefore be in Dutch.
 
-Hieronder vindt u ons beleidsplan. Een deel van de informatie die vereist is voor ANBI status zal ook gepubliceerd worden op <http://www.netherlands.beta-europe.org/about> en <http://www.netherlands.beta-europe.org/team> maar al deze informatie staat in Nederlandstalige vorm in onderstaand bestand:
+Hieronder vindt u ons beleidsplan. Een deel van de informatie die vereist is voor ANBI status zal ook gepubliceerd worden op <http://www.netherlands.beta-europe.org/about> en <http://www.netherlands.beta-europe.org/team>.
 
-[beleidsplan 2024-2026](/assets/files/beleidsplan-2024-2026.pdf)
+[Beleidsplan 2024-2026](/assets/files/beleidsplan-2024-2026.pdf)
 
 ## Financiële verantwoording
 [2023 activities](/assets/files/activities-2023.pdf)
