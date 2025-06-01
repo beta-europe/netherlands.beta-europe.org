@@ -13,6 +13,8 @@ Hieronder vindt u ons beleidsplan. Een deel van de informatie die vereist is voo
 [Beleidsplan 2024-2026](/assets/files/beleidsplan-2024-2026.pdf)
 
 ## Financiële verantwoording
+[2024 activities](/assets/files/activities-2024.pdf)
+
 [2024 financial report](/assets/files/financials-2024.pdf)
 
 [2023 activities](/assets/files/activities-2023.pdf)
